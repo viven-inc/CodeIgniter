@@ -1,6 +1,6 @@
 {
 	"description": "The CodeIgniter framework",
-	"name": "viven/codeigniter",
+	"name": "viven-inc/codeigniter",
 	"type": "project",
 	"homepage": "https://codeigniter.com",
 	"license": "MIT",
